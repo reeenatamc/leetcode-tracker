@@ -224,3 +224,4 @@ media
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+/tracker/codetracker/migrations/
