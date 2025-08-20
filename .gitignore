@@ -226,3 +226,4 @@ media
 .idea/**/shelf
 /tracker/codetracker/migrations/
 /codetracker/migrations/
+/codetracker/migrations/
